@@ -14,3 +14,7 @@
     
  > PT-BR
     Website criado para apresentar os principais trailers das séries, filmes e animes lançados no mainstream.
+    
+    
+![trailerflix-screenshot](https://user-images.githubusercontent.com/51956047/132081585-0f60effe-0e6d-410b-81b9-d3e8a5b3920f.png)
+
